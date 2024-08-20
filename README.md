@@ -24,7 +24,7 @@ I am a Junior Full Stack Web Developer <img src="https://media.giphy.com/media/W
 
 - 🌱: Exploring Technical Content Writing.
 
-- ⚡: In my free time, I read tech articles, listen to music and resolve quiz and sudoku.
+- ⚡: In my free time, I read tech articles, listen to music and play sports.
 
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-nolasco-/)
 
